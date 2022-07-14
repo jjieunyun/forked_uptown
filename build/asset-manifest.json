@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/uptown_demo/static/css/main.7d40c53e.css",
+    "main.js": "/uptown_demo/static/js/main.4549eee7.js",
+    "static/media/subbannersale.jpg": "/uptown_demo/static/media/subbannersale.d17a10fea263181fc1d8.jpg",
+    "static/media/bannerHome2.jpg": "/uptown_demo/static/media/bannerHome2.325c538368a31549d653.jpg",
+    "static/media/frontImg2.jpg": "/uptown_demo/static/media/frontImg2.4c95a366fd0af2dc7c70.jpg",
+    "static/media/press.jpg": "/uptown_demo/static/media/press.74e4d748665b95d9b904.jpg",
+    "static/media/flea-market-g71c6d8602_1280.jpg": "/uptown_demo/static/media/flea-market-g71c6d8602_1280.fbb609387d499a77d911.jpg",
+    "static/media/frontImg1.jpg": "/uptown_demo/static/media/frontImg1.05d4d894c658cc72cc37.jpg",
+    "index.html": "/uptown_demo/index.html",
+    "static/media/circle-chevron-right-solid.svg": "/uptown_demo/static/media/circle-chevron-right-solid.acc9b42d048ed5fe4f73.svg",
+    "static/media/circle-chevron-left-solid.svg": "/uptown_demo/static/media/circle-chevron-left-solid.88f38ec9e77072e4e58b.svg",
+    "main.7d40c53e.css.map": "/uptown_demo/static/css/main.7d40c53e.css.map",
+    "main.4549eee7.js.map": "/uptown_demo/static/js/main.4549eee7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d40c53e.css",
+    "static/js/main.4549eee7.js"
+  ]
+}
